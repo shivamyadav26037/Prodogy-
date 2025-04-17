@@ -13,7 +13,8 @@ Visualized the results using a bar chart.
 
 ![Average House Price by Number of Bedrooms]![Screenshot 2025-04-17 202324](https://github.com/user-attachments/assets/d0ece371-9714-420f-8512-02db6a980ec3)
 
-###Task 2: Titanic Dataset Analysis
+**### Task 2: Titanic Dataset Analysis**
+
  Objective
 Explore and analyze the Titanic dataset to identify patterns and relationships in passenger data — such as survival rates by gender, class, and age — and visualize these patterns using statistical plots.
 
@@ -47,7 +48,8 @@ Another view of how survival varied among classes (1, 2, 3).
 📷![image](https://github.com/user-attachments/assets/3bc19437-d586-4bab-918a-c0d1d6bde2b5)
 
 
-###Task 3:decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
+**### Task 3: Decision Tree Classifier to Predict Whether a Customer Will Purchase a Product or Service Based on Their Demographic and Behavioral Data**
+
 Decision Tree Visualization
 📷![image](https://github.com/user-attachments/assets/06def4cc-37d6-4381-b62b-baa13939eff9)
 
